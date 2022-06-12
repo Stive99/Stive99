@@ -4,15 +4,16 @@
   </p>
 </div>
 
-<details style="cursor: pointer;" open>
-  <summary>Статистика</summary>
-<p align=center>
-<a href="https://github.com/Stive99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stive99&show_icons=true&theme=radical&include_all_commits=true&show_icons=true&hide_border=true" alt="Статистика." />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stive99&show_icons=true&show_icons=true&theme=radical&hide_border=true" alt="Статистика." />
-</a>
-</p>
-</details>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;" href="https://github.com/Stive99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stive99&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&title_color=9f9f9f&text_color=9f9f9f&icon_color=75F792&count_private=true" alt="Статистика." />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stive99&layout=compact&show_icons=true&title_color=9f9f9f&text_color=9f9f9f&theme=dark&hide_border=true&icon_color=00000000&count_private=true" alt="Статистика." />
+    </td>
+  </tr>
+</table>  
 
 <!-- <p align="center" style="text-align: center; font-size:10px">'<a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>'</p> -->
 </div>
